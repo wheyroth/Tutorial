@@ -1,1 +1,1 @@
-<INCLUDE_TYPOSCRIPT: source="DIR: ./Library" extensions="ts">
+<INCLUDE_TYPOSCRIPT: source="DIR: EXT:typo3training/Configuration/TypoScript/Library" extensions="ts">

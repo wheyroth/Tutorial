@@ -264,10 +264,10 @@ return [
             'packagePath' => 'typo3conf/ext/extension_builder/',
             'suggestions' => [],
         ],
-        'homepage' => [
-            'composerName' => 'homepage',
+        'typo3training' => [
+            'composerName' => 'typo3training',
             'state' => 'active',
-            'packagePath' => 'typo3conf/ext/homepage/',
+            'packagePath' => 'typo3conf/ext/typo3training/',
             'suggestions' => [],
         ],
         'adodb' => [

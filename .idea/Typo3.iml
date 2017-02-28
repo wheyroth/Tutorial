@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/typo3_src/sysext" isTestSource="false" packagePrefix="TYPO3" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3_src/vendor/doctrine/instantiator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3conf/ext/extension_builder/Resources/Private/PHP/PHP-Parser/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3_src/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3_src/typo3/sysext/core/Build/Configuration/Acceptance/Support" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3conf/ext/extension_builder/Resources/Private/PHP/PHP-Parser/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3_src/vendor/cogpowered/finediff/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3/sysext/core/Build/Configuration/Acceptance/Support" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/typo3_src/sysext/core/Build/Configuration/Acceptance/Support" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
