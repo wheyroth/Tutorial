@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="tx_news_domain_model_news.tabs.relations">Relations</label>
+			<label index="tx_news_domain_model_news.palettes.alternativeTitles">Titres alternatifs</label>
+			<label index="tx_news_domain_model_news">Actualités</label>
+			<label index="tx_news_domain_model_news.alternative_title">Titre alternatif</label>
+			<label index="tx_news_domain_model_news.teaser">Texte d'accroche</label>
+			<label index="tx_news_domain_model_news.datetime">Date et heure</label>
+			<label index="tx_news_domain_model_news.archive">Archives</label>
+			<label index="tx_news_domain_model_news.archive.placeholder">Définition du moment à partir duquel l'actualité doit être listée dans les archives</label>
+			<label index="tx_news_domain_model_news.categories">Catégories</label>
+			<label index="tx_news_domain_model_news.related">Actualités en relation</label>
+			<label index="tx_news_domain_model_news.related_from">Actualités en relation (inverse)</label>
+			<label index="tx_news_domain_model_news.fal_related_files">Fichiers en relation</label>
+			<label index="tx_news_domain_model_news.fal_related_files.add">Ajouter un fichier en relation</label>
+			<label index="tx_news_domain_model_news.related_links">Liens en relation</label>
+			<label index="tx_news_domain_model_news.type.I.0">Actualités</label>
+			<label index="tx_news_domain_model_news.type.I.1">Page interne</label>
+			<label index="tx_news_domain_model_news.type.I.2">Page externe</label>
+			<label index="tx_news_domain_model_news.fal_media">Fichier média</label>
+			<label index="tx_news_domain_model_news.fal_media.add">Ajouter un fichier de média</label>
+			<label index="tx_news_domain_model_news.istopnews">Actualités principales</label>
+			<label index="tx_news_domain_model_news.content_elements">Éléments de contenu</label>
+			<label index="tx_news_domain_model_news.tags">Balises</label>
+			<label index="tx_news_domain_model_news.tags.add">Ajouter une nouvelle balise</label>
+			<label index="tx_news_domain_model_news.tags.list">Lister toutes les balises</label>
+			<label index="tx_news_domain_model_news.tags.edit">Editer les tag</label>
+			<label index="tx_news_domain_model_news.keywords.placeholder">Mot-clé1, mot-clé2, mot-clé3</label>
+			<label index="tx_news_domain_model_tag.seo.seo_title"/>
+			<label index="tx_news_domain_model_tag.seo.seo_description"/>
+			<label index="tx_news_domain_model_tag.seo.seo_headline"/>
+			<label index="tx_news_domain_model_tag.seo.composeo_text"/>
+			<label index="tx_news_domain_model_category.tabs.seo"/>
+			<label index="tx_news_domain_model_category.image">Image</label>
+			<label index="tx_news_domain_model_category.single_pid">Page de détail pour les actualités de cette catégorie</label>
+			<label index="tx_news_domain_model_category.shortcut">Raccourci de la catégorie d'actualité</label>
+			<label index="tx_news_domain_model_category.seo.seo_title"/>
+			<label index="tx_news_domain_model_category.seo.seo_description"/>
+			<label index="tx_news_domain_model_category.seo.seo_headline"/>
+			<label index="tx_news_domain_model_category.seo.seo_text"/>
+			<label index="tx_news_domain_model_link">Élément lien des actualités</label>
+			<label index="tx_news_domain_model_link.title">Titre</label>
+			<label index="tx_news_domain_model_link.description">Description</label>
+			<label index="tx_news_domain_model_link.uri">URL</label>
+			<label index="tx_news_domain_model_link.uri.placeholder">www.nom-de-domaine.org</label>
+			<label index="tx_news_domain_model_tag.tabs.seo"/>
+			<label index="tx_news_domain_model_tag">Balise d'actualité</label>
+			<label index="tx_news_domain_model_tag.title">Titre</label>
+			<label index="tx_news_domain_model_media.showinpreview">Montrer dans les vues de prévisualisation</label>
+			<label index="tx_news_domain_model_news.path_segment">Chemin de l'URL parlante</label>
+			<label index="be_user.tx_news_categorymounts">Actualités: restriction de catégorie</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

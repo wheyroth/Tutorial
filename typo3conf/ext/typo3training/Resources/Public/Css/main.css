@@ -7,6 +7,18 @@
     padding: 0 15px;
 }
 
+.navbar-collapse {
+
+    margin-left: -60px;
+}
+
+.tx-felogin-pi1>.form-group {
+    width: 8em;
+    float: right;
+}
+
+
+
 
 
 

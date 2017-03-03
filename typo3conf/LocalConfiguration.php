@@ -17,20 +17,25 @@ return [
     ],
     'EXT' => [
         'extConf' => [
+            'backend' => 'a:3:{s:9:"loginLogo";s:0:"";s:19:"loginHighlightColor";s:4:"navy";s:20:"loginBackgroundImage";s:44:"fileadmin/user_upload/street-962796_1920.jpg";}',
             'extension_builder' => 'a:3:{s:15:"enableRoundtrip";s:1:"1";s:15:"backupExtension";s:1:"1";s:9:"backupDir";s:35:"uploads/tx_extensionbuilder/backups";}',
             'filemetadata' => 'a:0:{}',
             'homepage' => 'a:0:{}',
+            'news' => 'a:14:{s:13:"prependAtCopy";s:1:"1";s:6:"tagPid";s:1:"1";s:12:"rteForTeaser";s:1:"1";s:22:"contentElementRelation";s:1:"1";s:13:"manualSorting";s:1:"0";s:19:"categoryRestriction";s:4:"none";s:34:"categoryBeGroupTceFormsRestriction";s:1:"0";s:19:"dateTimeNotRequired";s:1:"0";s:11:"archiveDate";s:4:"date";s:24:"showAdministrationModule";s:1:"1";s:35:"hidePageTreeForAdministrationModule";s:1:"0";s:12:"showImporter";s:1:"0";s:18:"storageUidImporter";s:1:"1";s:22:"resourceFolderImporter";s:12:"/news_import";}',
             'recycler' => 'a:0:{}',
             'rsaauth' => 'a:1:{s:18:"temporaryDirectory";s:0:"";}',
             'saltedpasswords' => 'a:2:{s:3:"BE.";a:4:{s:21:"saltedPWHashingMethod";s:41:"TYPO3\\CMS\\Saltedpasswords\\Salt\\PhpassSalt";s:11:"forceSalted";i:0;s:15:"onlyAuthService";i:0;s:12:"updatePasswd";i:1;}s:3:"FE.";a:5:{s:7:"enabled";i:1;s:21:"saltedPWHashingMethod";s:41:"TYPO3\\CMS\\Saltedpasswords\\Salt\\PhpassSalt";s:11:"forceSalted";i:0;s:15:"onlyAuthService";i:0;s:12:"updatePasswd";i:1;}}',
+            'sr_language_menu' => 'a:0:{}',
             'typo3training' => 'a:0:{}',
             'version' => 'a:0:{}',
+            'workspaces' => 'a:0:{}',
         ],
     ],
     'EXTCONF' => [
         'lang' => [
             'availableLanguages' => [
                 'de',
+                'fr',
             ],
         ],
     ],
@@ -38,6 +43,7 @@ return [
         'cHashIncludePageId' => true,
         'debug' => false,
         'loginSecurityLevel' => 'rsa',
+        'pageNotFound_handling' => 'index.php?id=24&ADMCMD_editIcons=1',
     ],
     'GFX' => [
         'colorspace' => 'sRGB',

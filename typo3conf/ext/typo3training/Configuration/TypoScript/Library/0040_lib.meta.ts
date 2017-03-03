@@ -2,7 +2,7 @@
 lib.meta = HMENU
 lib.meta {
     special = directory
-    special.value = 13
+    special.value = 10
     wrap = <ul class="list-inline pull-right">|</ul>
 
     1 = TMENU

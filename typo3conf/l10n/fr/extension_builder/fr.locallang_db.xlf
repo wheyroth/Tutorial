@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2012-04-14T17:43:11Z" product-name="extension_builder" target-language="fr">
+		<header/>
+		<body>
+			<trans-unit id="Tx_ExtensionBuilder_extension" approved="yes">
+				<source>Extension Builder: Extension</source>
+			<target state="translated">Extension Builder: extension</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.extensionkey" approved="yes">
+				<source>extensionKey</source>
+			<target state="translated">Clé de l'extension</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.title" approved="no">
+				<source>Title</source>
+			<target state="needs-translation">Titre</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.description" approved="yes">
+				<source>Description</source>
+			<target state="translated">Description</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.state" approved="yes">
+				<source>State</source>
+			<target state="translated">État</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.languages" approved="yes">
+				<source>Languages</source>
+			<target state="translated">Langues</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.persons" approved="yes">
+				<source>Persons</source>
+			<target state="translated">Personnes</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_extension.domainobjects" approved="yes">
+				<source>Domain Objects</source>
+			<target state="translated">Objets du domaine</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_person">
+				<source>Extension Builder: Person</source>
+			<target>Extension Builder: extension</target><note from="translator">82%</note><alt-trans xml:space="preserve" origin="oktopuce"><target>Extension Builder: Personne</target></alt-trans></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_person.name" approved="yes">
+				<source>Person Name</source>
+			<target state="translated">Nom de la personne</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_person.email" approved="yes">
+				<source>Person Email</source>
+			<target state="translated">E-mail de la personne</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_person.role" approved="yes">
+				<source>Role</source>
+			<target state="translated">Rôle</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_person.extension" approved="yes">
+				<source>Extension</source>
+			<target state="translated">Extension</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects">
+				<source>Extension Builder: Domain Objects</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>Extension Builder : objets du domaine</target></alt-trans></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects.name" approved="yes">
+				<source>Name</source>
+			<target state="translated">Nom</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects.description" approved="yes">
+				<source>Description</source>
+			<target state="translated">Description</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects.relateddomainobjects" approved="yes">
+				<source>Related Domain Objects</source>
+			<target state="translated">Objets du domaine en relation</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects.extension">
+				<source>Extension this Domain Object belongs to</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>Extension à laquelle appartient cet Objet du Domaine</target></alt-trans></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects.backendconfigurationoptions" approved="yes">
+				<source>Backend Configuration Options</source>
+			<target state="translated">Options de configuration Backend</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_domainObjects.properties" approved="yes">
+				<source>Properties</source>
+			<target state="translated">Propriétés</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_properties">
+				<source>Extension Builder: Properties</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>Extension Builder : propriétés</target></alt-trans></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_properties.name" approved="yes">
+				<source>Name</source>
+			<target state="translated">Nom</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_properties.description" approved="yes">
+				<source>Description</source>
+			<target state="translated">Description</target></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_properties.validationrules">
+				<source>validationRules</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>Règles de validation</target></alt-trans></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_properties.isrequired">
+				<source>isRequired</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>Obligatoire</target></alt-trans></trans-unit>
+			<trans-unit id="Tx_ExtensionBuilder_properties.accessmethods" approved="yes">
+				<source>Access Methods</source>
+			<target state="translated">Méthodes d'accès</target></trans-unit>
+		</body>
+	</file>
+</xliff>

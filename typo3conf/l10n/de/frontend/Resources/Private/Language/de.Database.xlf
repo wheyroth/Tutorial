@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <xliff version="1.0">
-	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-02-28T01:23:45Z" product-name="frontend">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-03-01T01:25:19Z" product-name="frontend">
 		<header/>
 		<body>
 			<trans-unit id="tt_content.table_caption" approved="yes">

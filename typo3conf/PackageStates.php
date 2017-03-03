@@ -102,6 +102,18 @@ return [
             'packagePath' => 'typo3/sysext/wizard_sortpages/',
             'suggestions' => [],
         ],
+        'version' => [
+            'composerName' => 'typo3/cms-version',
+            'state' => 'active',
+            'packagePath' => 'typo3/sysext/version/',
+            'suggestions' => [],
+        ],
+        'workspaces' => [
+            'composerName' => 'typo3/cms-workspaces',
+            'state' => 'active',
+            'packagePath' => 'typo3/sysext/workspaces/',
+            'suggestions' => [],
+        ],
         'about' => [
             'composerName' => 'typo3/cms-about',
             'state' => 'active',
@@ -246,22 +258,34 @@ return [
             'packagePath' => 'typo3/sysext/tstemplate/',
             'suggestions' => [],
         ],
-        'version' => [
-            'composerName' => 'typo3/cms-version',
-            'state' => 'active',
-            'packagePath' => 'typo3/sysext/version/',
-            'suggestions' => [],
-        ],
         'viewpage' => [
             'composerName' => 'typo3/cms-viewpage',
             'state' => 'active',
             'packagePath' => 'typo3/sysext/viewpage/',
             'suggestions' => [],
         ],
+        'static_info_tables' => [
+            'composerName' => 'sjbr/static-info-tables',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/static_info_tables/',
+            'suggestions' => [],
+        ],
+        'sr_language_menu' => [
+            'composerName' => 'sjbr/sr-language-menu',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/sr_language_menu/',
+            'suggestions' => [],
+        ],
         'extension_builder' => [
             'composerName' => 'ebt/extension_builder',
             'state' => 'active',
             'packagePath' => 'typo3conf/ext/extension_builder/',
+            'suggestions' => [],
+        ],
+        'news' => [
+            'composerName' => 'georgringer/news',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/news/',
             'suggestions' => [],
         ],
         'typo3training' => [
@@ -318,6 +342,12 @@ return [
             'packagePath' => 'typo3/sysext/opendocs/',
             'suggestions' => [],
         ],
+        'realurl' => [
+            'composerName' => 'dmitryd/typo3-realurl',
+            'state' => 'inactive',
+            'packagePath' => 'typo3conf/ext/realurl/',
+            'suggestions' => [],
+        ],
         'scheduler' => [
             'composerName' => 'typo3/cms-scheduler',
             'state' => 'inactive',
@@ -337,12 +367,6 @@ return [
             'suggestions' => [
                 'sys_action',
             ],
-        ],
-        'workspaces' => [
-            'composerName' => 'typo3/cms-workspaces',
-            'state' => 'inactive',
-            'packagePath' => 'typo3/sysext/workspaces/',
-            'suggestions' => [],
         ],
     ],
     'version' => 4,

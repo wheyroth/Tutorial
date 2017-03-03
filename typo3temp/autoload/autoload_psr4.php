@@ -6,5 +6,8 @@ $typo3InstallDir = PATH_site;
 
 return array(
     'EBT\\ExtensionBuilder\\' => array($typo3InstallDir . 'typo3conf/ext/extension_builder/Classes'),
+    'GeorgRinger\\News\\' => array($typo3InstallDir . 'typo3conf/ext/news/Classes'),
     'PhpParser\\' => array($typo3InstallDir . 'typo3conf/ext/extension_builder/Resources/Private/PHP/PHP-Parser/lib/PhpParser'),
+    'SJBR\\SrLanguageMenu\\' => array($typo3InstallDir . 'typo3conf/ext/sr_language_menu/Classes'),
+    'SJBR\\StaticInfoTables\\' => array($typo3InstallDir . 'typo3conf/ext/static_info_tables/Classes'),
 );

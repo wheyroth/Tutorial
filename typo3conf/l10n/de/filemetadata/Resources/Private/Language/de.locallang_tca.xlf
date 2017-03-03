@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <xliff version="1.0">
-	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-02-28T01:10:21Z" product-name="filemetadata">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-03-01T01:11:14Z" product-name="filemetadata">
 		<header/>
 		<body>
 			<trans-unit id="fe_groups.files" approved="yes">
 				<source>Allowed files</source>
 				<target state="translated">Erlaubte Dateien</target>
+			</trans-unit>
+			<trans-unit id="palette.accessibility" approved="yes">
+				<source>Accessibility</source>
+				<target state="translated">Barrierefreiheit</target>
 			</trans-unit>
 			<trans-unit id="palette.content_date" approved="yes">
 				<source>Content Date</source>
@@ -14,6 +18,10 @@
 			<trans-unit id="palette.geo_location" approved="yes">
 				<source>Geo Location</source>
 				<target state="translated">Geo-Lokalisierung</target>
+			</trans-unit>
+			<trans-unit id="palette.gps" approved="yes">
+				<source>GPS</source>
+				<target state="translated">GPS</target>
 			</trans-unit>
 			<trans-unit id="palette.metrics" approved="yes">
 				<source>Metrics</source>
@@ -35,6 +43,34 @@
 				<source>Color Space</source>
 				<target state="translated">Farbraum</target>
 			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.CMY" approved="yes">
+				<source>CMY</source>
+				<target state="translated">CMY</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.CMYK" approved="yes">
+				<source>CMYK</source>
+				<target state="translated">CMYK</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.grey" approved="yes">
+				<source>Grey</source>
+				<target state="translated">Grau</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.indx" approved="yes">
+				<source>Indexed</source>
+				<target state="translated">Indiziert</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.RGB" approved="yes">
+				<source>RGB</source>
+				<target state="translated">RGB</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.sRGB" approved="yes">
+				<source>sRGB</source>
+				<target state="translated">sRGB</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space.YUV" approved="yes">
+				<source>YUV</source>
+				<target state="translated">YUV</target>
+			</trans-unit>
 			<trans-unit id="sys_file_metadata.content_creation_date" approved="yes">
 				<source>Content Creation Date</source>
 				<target state="translated">Erstellungsdatum des Inhalts</target>
@@ -42,6 +78,10 @@
 			<trans-unit id="sys_file_metadata.content_modification_date" approved="yes">
 				<source>Content Modification Date</source>
 				<target state="translated">Letzte Änderung</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.copyright" approved="yes">
+				<source>Copyright</source>
+				<target state="translated">Urheberrecht</target>
 			</trans-unit>
 			<trans-unit id="sys_file_metadata.creator" approved="yes">
 				<source>Creator</source>
@@ -135,6 +175,34 @@
 				<source>Unit</source>
 				<target state="translated">Einheit</target>
 			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.cm" approved="yes">
+				<source>Centimeters</source>
+				<target state="translated">Zentimeter</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.in" approved="yes">
+				<source>Inches</source>
+				<target state="translated">Zoll</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.m" approved="yes">
+				<source>Meters</source>
+				<target state="translated">Meter</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.mm" approved="yes">
+				<source>Millimeters</source>
+				<target state="translated">Millimeter</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.p" approved="yes">
+				<source>Picas</source>
+				<target state="translated">Pica</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.pt" approved="yes">
+				<source>Points</source>
+				<target state="translated">Punkt</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit.px" approved="yes">
+				<source>Pixels</source>
+				<target state="translated">Pixel</target>
+			</trans-unit>
 			<trans-unit id="sys_file_metadata.visible" approved="yes">
 				<source>Visible</source>
 				<target state="translated">Sichtbar</target>
@@ -143,9 +211,21 @@
 				<source>Width</source>
 				<target state="translated">Breite</target>
 			</trans-unit>
+			<trans-unit id="tabs.audio" approved="yes">
+				<source>Audio</source>
+				<target state="translated">Audio</target>
+			</trans-unit>
+			<trans-unit id="tabs.camera" approved="yes">
+				<source>Camera Data</source>
+				<target state="translated">Kameradaten</target>
+			</trans-unit>
 			<trans-unit id="tabs.metadata" approved="yes">
 				<source>Metadata</source>
 				<target state="translated">Metadaten</target>
+			</trans-unit>
+			<trans-unit id="tabs.video" approved="yes">
+				<source>Video</source>
+				<target state="translated">Video</target>
 			</trans-unit>
 		</body>
 	</file>

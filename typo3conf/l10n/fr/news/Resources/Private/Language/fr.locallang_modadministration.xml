@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_tabs_tab">Gestion des Actualités</label>
+			<label index="mlang_labels_tablabel">Gérer les actualités dans un module séparé</label>
+			<label index="mlang_labels_tabdescr">Le module permet de gérer facilement les actualités et les catégories</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

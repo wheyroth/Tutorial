@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Tx_ExtensionBuilder_extension">Extension Builder: extension</label>
+			<label index="Tx_ExtensionBuilder_extension.extensionkey">Clé de l'extension</label>
+			<label index="Tx_ExtensionBuilder_extension.title">Titre</label>
+			<label index="Tx_ExtensionBuilder_extension.description">Description</label>
+			<label index="Tx_ExtensionBuilder_extension.state">État</label>
+			<label index="Tx_ExtensionBuilder_extension.languages">Langues</label>
+			<label index="Tx_ExtensionBuilder_extension.persons">Personnes</label>
+			<label index="Tx_ExtensionBuilder_extension.domainobjects">Objets du domaine</label>
+			<label index="Tx_ExtensionBuilder_person">Extension Builder: extension</label>
+			<label index="Tx_ExtensionBuilder_person.name">Nom de la personne</label>
+			<label index="Tx_ExtensionBuilder_person.email">E-mail de la personne</label>
+			<label index="Tx_ExtensionBuilder_person.role">Rôle</label>
+			<label index="Tx_ExtensionBuilder_person.extension">Extension</label>
+			<label index="Tx_ExtensionBuilder_domainObjects"/>
+			<label index="Tx_ExtensionBuilder_domainObjects.name">Nom</label>
+			<label index="Tx_ExtensionBuilder_domainObjects.description">Description</label>
+			<label index="Tx_ExtensionBuilder_domainObjects.relateddomainobjects">Objets du domaine en relation</label>
+			<label index="Tx_ExtensionBuilder_domainObjects.extension"/>
+			<label index="Tx_ExtensionBuilder_domainObjects.backendconfigurationoptions">Options de configuration Backend</label>
+			<label index="Tx_ExtensionBuilder_domainObjects.properties">Propriétés</label>
+			<label index="Tx_ExtensionBuilder_properties"/>
+			<label index="Tx_ExtensionBuilder_properties.name">Nom</label>
+			<label index="Tx_ExtensionBuilder_properties.description">Description</label>
+			<label index="Tx_ExtensionBuilder_properties.validationrules"/>
+			<label index="Tx_ExtensionBuilder_properties.isrequired"/>
+			<label index="Tx_ExtensionBuilder_properties.accessmethods">Méthodes d'accès</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2017-03-01T04:18:20Z" product-name="tstemplate">
+		<header/>
+		<body>
+			<trans-unit id="addButton" approved="yes">
+				<source>Add</source>
+				<target state="translated">Ajouter</target>
+			</trans-unit>
+			<trans-unit id="addKey">
+				<source>Add key "%s" to Object List</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="addProperty">
+				<source>Add object property:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="all" approved="yes">
+				<source>All</source>
+				<target state="translated">Tout</target>
+			</trans-unit>
+			<trans-unit id="back" approved="yes">
+				<source>Back</source>
+				<target state="translated">Retour</target>
+			</trans-unit>
+			<trans-unit id="badProperty">
+				<source>Bad property!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="browse" approved="yes">
+				<source>Browse:</source>
+				<target state="translated">Parcourir :</target>
+			</trans-unit>
+			<trans-unit id="clear" approved="no">
+				<source>Clear?</source>
+				<target state="needs-translation">Effacer</target>
+			</trans-unit>
+			<trans-unit id="clearButton" approved="yes">
+				<source>Clear</source>
+				<target state="translated">Effacer</target>
+			</trans-unit>
+			<trans-unit id="clearObject" approved="yes">
+				<source>Clear object:</source>
+				<target state="translated">Effacer l'objet :</target>
+			</trans-unit>
+			<trans-unit id="conditions" approved="yes">
+				<source>Conditions</source>
+				<target state="translated">Conditions</target>
+			</trans-unit>
+			<trans-unit id="constantRoot">
+				<source>constants root</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="constants" approved="yes">
+				<source>Constants</source>
+				<target state="translated">Constantes</target>
+			</trans-unit>
+			<trans-unit id="cropLines">
+				<source>Crop lines</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="currentTemplate">
+				<source>Current template</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="displayComments" approved="yes">
+				<source>Display comments</source>
+				<target state="translated">Afficher les commantaires</target>
+			</trans-unit>
+			<trans-unit id="displayConstants" approved="yes">
+				<source>Display constants:</source>
+				<target state="translated">Afficher les constantes :</target>
+			</trans-unit>
+			<trans-unit id="displayOptions" approved="yes">
+				<source>Display options</source>
+				<target state="translated">Options d'affichage</target>
+			</trans-unit>
+			<trans-unit id="edit" approved="yes">
+				<source>Edit:</source>
+				<target state="translated">Modifier :</target>
+			</trans-unit>
+			<trans-unit id="editProperty">
+				<source>Edit object/property value:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="error.1446559458">
+				<source>Error evaluating regular expression "%s".</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="errorShowDetails" approved="yes">
+				<source>Show details</source>
+				<target state="translated">Afficher les détails</target>
+			</trans-unit>
+			<trans-unit id="errorsWarnings" approved="yes">
+				<source>Errors and warnings</source>
+				<target state="translated">Erreurs et avertissements</target>
+			</trans-unit>
+			<trans-unit id="noCurrentTemplate">
+				<source>You cannot edit properties and values, if there's no current template.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="noSpaces">
+				<source>You must enter a property with characters a-z, A-Z and 0-9, no spaces!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="nothingUpdated" approved="yes">
+				<source>Nothing was updated!</source>
+				<target state="translated">Rien n'a été modifié.</target>
+			</trans-unit>
+			<trans-unit id="objectCleared" approved="yes">
+				<source>Object cleared</source>
+				<target state="translated">Objet effacé</target>
+			</trans-unit>
+			<trans-unit id="objectList">
+				<source>Object List:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="plainSubstitution">
+				<source>Plain substitution (default)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="propertyAdded" approved="yes">
+				<source>Property added</source>
+				<target state="translated">Propriété ajoutée</target>
+			</trans-unit>
+			<trans-unit id="regExp" approved="yes">
+				<source>Regular expressions</source>
+				<target state="translated">Expressions régulières</target>
+			</trans-unit>
+			<trans-unit id="removeKey">
+				<source>Remove key from OL</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search:</source>
+				<target state="translated">Rechercher :</target>
+			</trans-unit>
+			<trans-unit id="setConditions">
+				<source>Set conditions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="setup" approved="yes">
+				<source>Setup</source>
+				<target state="translated">Configuration</target>
+			</trans-unit>
+			<trans-unit id="setupRoot">
+				<source>setup root</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="severity.1" approved="yes">
+				<source>Info</source>
+				<target state="translated">Information</target>
+			</trans-unit>
+			<trans-unit id="severity.2" approved="yes">
+				<source>Warning</source>
+				<target state="translated">Avertissement</target>
+			</trans-unit>
+			<trans-unit id="severity.3" approved="yes">
+				<source>Error</source>
+				<target state="translated">Erreur</target>
+			</trans-unit>
+			<trans-unit id="sortAlphabetically" approved="yes">
+				<source>Sort alphabetically</source>
+				<target state="translated">Trier alphabétiquement</target>
+			</trans-unit>
+			<trans-unit id="substitutedGreen">
+				<source>Substituted constants in green</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="unsubstitutedGreen">
+				<source>UN-substituted constants in green</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="updateButton" approved="yes">
+				<source>Update</source>
+				<target state="translated">Mettre à jour</target>
+			</trans-unit>
+			<trans-unit id="valueUpdated" approved="yes">
+				<source>Value updated</source>
+				<target state="translated">Valeur modifiée</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
